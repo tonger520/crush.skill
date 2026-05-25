@@ -1,0 +1,22 @@
+# Generated crush files (contains personal data)
+crushes/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+/tmp/
+*.log
